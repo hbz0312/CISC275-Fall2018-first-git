@@ -1,0 +1,11 @@
+Q: What five objects are created in the main?
+1. Dog("Fido", 4)
+2. Dog("Fido", 3)
+3. Dog("Alfie", 4)
+4. Animal a
+5. Animal b
+
+Q：Can you spot the comparator constructor call?
+Where is the class definition for the comparator?
+The word "new" implies the comparator constructor.
+The definition of the comparator is between line 17 and line 19.
